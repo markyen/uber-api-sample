@@ -1,0 +1,23 @@
+{
+  "name": "uber-api-sample",
+  "version": "1.0.0",
+  "description": "Sample application that gets data through the Uber API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mark/uber-api-sample.git"
+  },
+  "author": "Mark Yen <mark@uber.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mark/uber-api-sample/issues"
+  },
+  "homepage": "https://github.com/mark/uber-api-sample#readme",
+  "dependencies": {
+    "hapi": "^10.0.0",
+    "request": "^2.61.0"
+  }
+}
